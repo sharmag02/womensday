@@ -616,6 +616,11 @@ html{
           font-size: 15px;
         }
       
+.background{
+    background: rgba(0, 0, 0, 0.7) url('../img/bg2.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
         
        .secondHalf{
         padding-bottom: 10px;
