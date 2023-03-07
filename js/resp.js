@@ -70,3 +70,28 @@ function showSlides(slides, slideIndex, cycle) {
 
 
 
+
+
+document.querySelector(".dropbtns").addEventListener("click", function() {
+    document.querySelector(".dropdowns-contents").classList.toggle("show");
+  });
+  
+  // Hide the dropdown content when the user clicks outside of it
+  window.addEventListener("click", function(event) {
+    if (!event.target.matches(".dropbtn")) {
+      var dropdownss = document.querySelectorAll(".dropdowns-contents");
+      for (var i = 0; i < dropdownss.length; i++) {
+        var openDropdown = dropdownss[i];
+        if (openDropdown.classList.contains("show")) {
+          openDropdown.classList.remove("show");
+        }
+      }
+    }
+  });
+ 
+  
+  
+  
+  
+  
+  
