@@ -19,11 +19,7 @@ The platform also highlights social issues, educational statistics, inspiring st
 - [Project Overview](#-project-overview)  
 - [Features](#-features)  
 - [Screenshots](#-screenshots)  
-- [Tech Stack](#-tech-stack)  
-- [How to Run Locally](#-how-to-run-locally)  
-- [Deployment](#-deployment)  
-- [Contributors](#-contributors)  
-- [License](#-license)
+- [Tech Stack](#-tech-stack) 
 
 ---
 
