@@ -20,7 +20,6 @@ The platform also highlights social issues, educational statistics, inspiring st
 - [Features](#-features)  
 - [Screenshots](#-screenshots)  
 - [Tech Stack](#-tech-stack)  
-- [Project Structure](#-project-structure)  
 - [How to Run Locally](#-how-to-run-locally)  
 - [Deployment](#-deployment)  
 - [Contributors](#-contributors)  
@@ -97,23 +96,5 @@ No frameworks — completely lightweight and fast.
 
 ---
 
-## 📂 Project Structure
-/
-├─ index.html
-├─ css/
-│ └─ style.css
-├─ js/
-│ └─ script.js (optional)
-├─ img/
-│ └─ images used across pages
-├─ audio/
-│ └─ naaripuja.mp3 (if used)
-├─ pages/
-│ ├─ sports.html
-│ ├─ science.html
-│ ├─ defence.html
-│ ├─ stats.html
-│ ├─ stories.html
-│ └─ more...
-└─ README.md
+
 
