@@ -71,8 +71,16 @@ It includes:
 
 ## 🖼 Screenshots
 
-(Add images if you want)  
-You can create a `/screenshots` folder and upload homepage, achievements page, stats page, etc.
+<img width="1912" height="860" alt="image" src="https://github.com/user-attachments/assets/f2e38128-772a-4835-96ab-0a5f1faefd9b" />
+<img width="1903" height="851" alt="image" src="https://github.com/user-attachments/assets/8a183f6d-0a7d-49fa-b436-08457baa303b" />
+<img width="1889" height="866" alt="image" src="https://github.com/user-attachments/assets/ecc28b4c-e304-4510-b33d-42098846903e" />
+<img width="1895" height="857" alt="image" src="https://github.com/user-attachments/assets/dedd84e1-18f5-4f68-9190-9fbae00a507c" />
+<img width="1908" height="868" alt="image" src="https://github.com/user-attachments/assets/056c5e0b-0296-46fe-9c1a-e5a8a33155da" />
+
+
+
+
+
 
 ---
 
@@ -90,4 +98,22 @@ No frameworks — completely lightweight and fast.
 ---
 
 ## 📂 Project Structure
+/
+├─ index.html
+├─ css/
+│ └─ style.css
+├─ js/
+│ └─ script.js (optional)
+├─ img/
+│ └─ images used across pages
+├─ audio/
+│ └─ naaripuja.mp3 (if used)
+├─ pages/
+│ ├─ sports.html
+│ ├─ science.html
+│ ├─ defence.html
+│ ├─ stats.html
+│ ├─ stories.html
+│ └─ more...
+└─ README.md
 
